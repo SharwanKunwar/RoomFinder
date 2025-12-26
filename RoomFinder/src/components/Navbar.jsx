@@ -30,10 +30,8 @@ function Navbar() {
             <div className='w-[40%] h-full flex justify-center items-center'>
             {/* nav list  */}
             <div className='w-[50%] h-full pr-5'>
-            <ul className='flex items-center justify-end gap-10 h-full w-full'>
-                <li>Home</li>
-                <li>My Listings</li>
-                <li>Message</li>
+            <ul className='flex items-center justify-end gap-5 h-full w-full'>
+                <li>My Room</li>
             </ul>
             </div>
             
